@@ -1,0 +1,126 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.0004aa
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.000900
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.000afe
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.00115e
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.00129a
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.001c69
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.001cf1
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.0026c0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.002748
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.002bf1
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.003047
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.0036a7
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
+
+newmtl Material.0038a5
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 33
+map_Kd textures\Weapons\44\44_d.dds
+map_Kn textures\Weapons\44\44_n.dds
